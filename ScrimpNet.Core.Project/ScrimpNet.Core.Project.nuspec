@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+	<metadata version="1.2.3">
+		<version>12.8.17.1505</version>
+		<id>ScrimpNet.Core.Library</id>		
+		<title>.Net Developer Utility Library</title>
+		<authors>Steve Powell, ScrimpNet.com</authors>
+		<owners>Steve Powell, ScrimpNet.com</owners>
+		<licenseUrl>http://scrimpnet.codeplex.com/license</licenseUrl>
+		<projectUrl>http://scrimpnet.codeplex.com</projectUrl>
+		<description>Miscellaneous utilities for .Net developers</description>
+		<copyright>Copyright 2005-2012</copyright>
+		<frameworkAssemblies>
+			<frameworkAssembly assemblyName="System.configuration" version="net40"/>		
+		</frameworkAssemblies>
+	</metadata>
+</package>
