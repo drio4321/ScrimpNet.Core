@@ -338,9 +338,6 @@
     <None Include="Documentation\ScrimpNetCore.shfb" />
     <Compile Include="Extensions.Collections.cs" />
     <Compile Include="Validation\Is.EMail.cs" />
-    <None Include="_Config And Notes\Sample.App.config">
-      <SubType>Designer</SubType>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
@@ -370,8 +367,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="_Config And Notes\License.txt" />
-    <EmbeddedResource Include="_Config And Notes\ReleaseNotes.txt" />
     <EmbeddedResource Include="Net\MimeTypes.xml" />
     <EmbeddedResource Include="Net\Images\32x32\mime_pdf_32x32bmp.bmp" />
   </ItemGroup>
