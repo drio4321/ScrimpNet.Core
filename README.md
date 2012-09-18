@@ -4,7 +4,8 @@ ScrimpNet.com Developer Utility Library
 New WCF Membership Provider!
  This library extension creates a WCF wrapper around your ASP.Net membership provider. You can use most any standard ASP.Net membership provider as your underlying security. You can use this provider to easily build out web farms using a common web services security end point. (This is a beta project seems to work, but we don't haven't deployed this into a production environment). See Security documentation for details.
  
- Project Description
+ **Project Description**
+ ---
  
  ScrimpNet.Core is a library of miscellaneous utilities we have found to be useful in our real applications. Of course we might have thrown in something cool just for fun. Most of these classes and functions are nothing new or reflect some radical new thought. They are just helper functions and libraries which we found helpful from time to time.
 
@@ -16,5 +17,4 @@ ScrimpNet.Core is currently targeted for .Net 3.5 or better. We have tried to ke
 
 We hope you find these functions will help you handle some tedious tasks faster so you can focus on delivering excellent code and solving real problems.
 
-Steve Powell
-The ScrimpNet.com Team 
+Steve Powell<br>The ScrimpNet.com Team 
