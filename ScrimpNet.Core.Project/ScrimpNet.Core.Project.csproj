@@ -338,7 +338,6 @@
     <None Include="Documentation\ScrimpNetCore.shfb" />
     <Compile Include="Extensions.Collections.cs" />
     <Compile Include="Validation\Is.EMail.cs" />
-    <None Include="ScrimpNet.Core.Project.nuspec" />
     <None Include="_Config And Notes\Sample.App.config">
       <SubType>Designer</SubType>
     </None>
